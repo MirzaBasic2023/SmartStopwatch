@@ -11,8 +11,11 @@ Copyright © by Srednja tehnička škola Bugojno 2024. All rights reserved.
 Fell free to use this project as inspiration and improving design of your projects, but not for any monetary gain and criminal activities.
 
 Project manager by Said Karaosmanović
+
 Project assistant by Mirza Bašić
+
 Hardware by Tarik Redžić
+
 Software by Edhem Krivdić
 
 Github:
