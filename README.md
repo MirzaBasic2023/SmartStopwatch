@@ -5,9 +5,10 @@ There are 2 lasers along with a phototransistor (those two are in pair). Trigger
 the radio receiver. Information is, then, processed and registered by Arduino Nano and race starts. Triggering the START laser after the first trigger is useless (it doesn't bear any fruit). Triggering STOP laser, race stops and the elapsed time is printed on the display.
 Project is equiped with monopole antennas that can work up to 100m radius. Also, project is not perfect and has a problem with 
 photo sensitivity of transistors.
+
 **Notice: This project produces electromagnetic radiation which can trigger car alarms and be a distraction / obstruction in wireless communication.**
 
-Copyright © by Srednja tehnička škola Bugojno 2024. All rights reserved.
+Copyright © 2024 by Srednja tehnička škola Bugojno. All rights reserved.
 Fell free to use this project as inspiration and improving design of your projects, but not for any monetary gain and criminal activities.
 
 Project manager by Said Karaosmanović
