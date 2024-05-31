@@ -20,7 +20,7 @@ Mirza Bašić: https://github.com/MirzaBasic2023
 Edhem Krivdić: https://github.com/Edo3214
 
 In this project, it is provided the following:
-* Proteus files for schematics and PCB design
+* Schematic
 * Documentation of the project in Bosnian language
 * Pictures of finished project
 * Arduino Code
