@@ -20,8 +20,13 @@ Hardware by Tarik Redžić
 Software by Edhem Krivdić
 
 Github:
-Mirza Bašić: https://github.com/MirzaBasic2023
-Edhem Krivdić: https://github.com/Edo3214
+
+Mirza Bašić: 
+https://github.com/MirzaBasic2023
+Edhem Krivdić: 
+https://github.com/Edo3214
+Tarik Redžić:
+https://github.com/TarikRedzic
 
 In this project, it is provided the following:
 * Schematic
