@@ -9,7 +9,8 @@ photo sensitivity of transistors.
 **Notice: This project produces electromagnetic radiation which can trigger car alarms and be a distraction / obstruction in wireless communication.**
 
 Copyright © 2024 by Srednja tehnička škola Bugojno. All rights reserved.
-Fell free to use this project as inspiration and improving design of your projects, but not for any monetary gain and criminal activities.
+Fell free to use this project as inspiration and improving design of your projects, but not for any monetary gain and criminal activities :)
+
 
 Project manager by Said Karaosmanović
 
